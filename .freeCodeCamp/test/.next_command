@@ -23,3 +23,5 @@ clear
 touch fortune.sh
 ls --color=auto -l
 chmod +x fortune.sh
+which bash
+which bash
