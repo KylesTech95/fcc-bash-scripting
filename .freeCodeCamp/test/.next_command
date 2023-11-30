@@ -25,3 +25,4 @@ ls --color=auto -l
 chmod +x fortune.sh
 which bash
 which bash
+./fortune.sh
