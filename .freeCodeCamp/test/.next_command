@@ -21,3 +21,5 @@ clea
 rclear
 clear
 touch fortune.sh
+ls --color=auto -l
+chmod +x fortune.sh
