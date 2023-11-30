@@ -26,3 +26,4 @@ chmod +x fortune.sh
 which bash
 which bash
 ./fortune.sh
+ARR=("a" "b" "c")
