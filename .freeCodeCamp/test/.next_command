@@ -68,3 +68,5 @@ __vsc_prompt_cmd_original
 [[ hello =~ "lo wor" ]]
 [[ "hello world" =~ "lo wor" ]]
 [[ "hello world" =~ ^h ]]
+__vsc_prompt_cmd_original
+[[ "hello world" =~ ^h.+d$ ]]
