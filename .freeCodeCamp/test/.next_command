@@ -70,3 +70,4 @@ __vsc_prompt_cmd_original
 [[ "hello world" =~ ^h ]]
 __vsc_prompt_cmd_original
 [[ "hello world" =~ ^h.+d$ ]]
+VAR="hello world"
