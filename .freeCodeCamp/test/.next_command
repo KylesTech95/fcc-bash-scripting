@@ -50,3 +50,5 @@ __vsc_prompt_cmd_original
 clear
 help
 help function
+./forutne.sh
+./fortune.sh
