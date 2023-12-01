@@ -118,3 +118,13 @@ cmod +x file.sh
 chmod +x file.sh
 chmod +x five.sh
 git add .
+git remote -v
+git commit -m "almost done with course. So tired"
+git push -u origin main
+git pull origin main --allow-unrelated-histories
+git push -u origin main
+git pull main
+git branch -M main
+git push -u origin main
+git pull origin main
+git add .
