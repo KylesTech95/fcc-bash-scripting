@@ -29,3 +29,4 @@ type echo
 type if
 type let
 type read
+type if
