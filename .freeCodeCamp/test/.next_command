@@ -117,3 +117,4 @@ ls --color=auto -l
 cmod +x file.sh
 chmod +x file.sh
 chmod +x five.sh
+git add .
