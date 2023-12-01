@@ -107,3 +107,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 .fortune.sh
 __vsc_prompt_cmd_original
 ./fortune.sh
+./fortune.sh
+./fortune.sh
