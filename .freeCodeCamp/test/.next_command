@@ -38,3 +38,4 @@ declare -p
 declare -a
 declare ARR
 declare -p ARR
+./fortune.sh
