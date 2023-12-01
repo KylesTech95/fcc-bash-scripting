@@ -19,3 +19,5 @@ mv coutndown.sh countdown.sh
 chmod +x countdown.sh
 clear
 ./five.sh
+./five.sh
+./five.sh
