@@ -26,3 +26,6 @@ clear
 help
 help type
 type echo
+type if
+type let
+type read
