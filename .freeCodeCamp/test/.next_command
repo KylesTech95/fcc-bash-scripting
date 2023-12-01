@@ -33,3 +33,8 @@ echo $*
 echo ${ARR}
 echo ${ARR[$@]}
 echo ${ARR[*]}
+declare ARR -p
+declare -p
+declare -a
+declare ARR
+declare -p ARR
