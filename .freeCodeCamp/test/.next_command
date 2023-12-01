@@ -10,3 +10,12 @@ git pull origin main --allow-unrelated-histories
 clear
 which
 which bash
+./five.sh
+./five.sh
+ls --color=auto -l
+chmod +x questionnaire.sh
+chmod +x countdown.sh
+mv coutndown.sh countdown.sh
+chmod +x countdown.sh
+clear
+./five.sh
