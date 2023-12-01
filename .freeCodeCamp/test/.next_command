@@ -113,3 +113,7 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 ./fortune.sh
 touch five.sh
+ls --color=auto -l
+cmod +x file.sh
+chmod +x file.sh
+chmod +x five.sh
